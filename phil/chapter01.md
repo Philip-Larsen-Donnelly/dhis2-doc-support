@@ -17,4 +17,4 @@ To edit content in the pull request, I go into the branch of the PR, and make th
 
 To add images, remember that they must be in `/resources/images/` folder with respect to the current document:
 
-![My Image Title](/resources/images/phil01.png)
+![My Image Title](resources/images/phil01.png)
